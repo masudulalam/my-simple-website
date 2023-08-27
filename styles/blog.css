@@ -2,4 +2,6 @@ div{
     background-color: tomato;
     padding: 20px;
     font-size: larger;
+    margin: 10px;
+    border-radius: 20px;
 }
